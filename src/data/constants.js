@@ -10,7 +10,7 @@ export const Bio = {
     "Graduate full stack developer with expertise building, designing, and deploying backend and frontend websites utilising a variety of technologies and programming languages, HTML, JavaScript, Bootstrap, MongoDB, MySQL, Spring, and AWS are just a few examples.In search of a challenging career as a Full-Stack Developer where I can apply my vast development skills and hands-on technical abilities",
   github: "https://github.com/Manavpatel1803",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/1X3CyKFO6xxO1ogmOT5KK1fBJnLqJGCba/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/manav1803/",
   twitter: "https://twitter.com/Manav08157594",
   insta: "https://www.instagram.com/manav_18/",
