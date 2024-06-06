@@ -245,7 +245,7 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "Employee Management System",
+    title: "Disaster CrowdFunding Blockchain Application",
     description:
       "Developed a comprehensive Employee Management System using the Laravel framework, enhancing organizational efficiency through features like employee tracking, attendance management, and payroll processing. Leveraged Laravel's robust MVC architecture to ensure scalability and maintainability, while integrating authentication and authorization to secure sensitive data.",
     image:
@@ -264,8 +264,8 @@ export const projects = [
       "Redux",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    github: "https://github.com/Manavpatel1803/DisasterReliefCrowdFunding-DApp",
+    webapp: "",
   },
   {
     id: 0,
@@ -276,8 +276,8 @@ export const projects = [
       "https://financefeeds.com/wp-content/uploads/2022/11/core-banking.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    github: "",
+    webapp: "",
   },
   {
     id: 1,
@@ -295,8 +295,8 @@ export const projects = [
       "NodeMailer",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "",
+    webapp: "",
   },
   {
     id: 2,
@@ -307,40 +307,21 @@ export const projects = [
       "https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638892233/EducationHub/photos/crops-growing-in-thailand.jpg",
     tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
-  },
-  {
-    id: 2,
-    title: "Food Delivery Mobile Application",
-    description:
-      "Built a dynamic Food Delivery mobile app using React Native and Expo, providing users with an intuitive interface for ordering and tracking deliveries. Leveraged Sanity.io for efficient content management and real-time updates, ensuring accurate and timely information. Focused on delivering a seamless user experience with cross-platform compatibility and robust performance optimization.",
-    image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOV6Q3CbcNCDb35056ZvW-5wLamhd5qxGpRA&usqp=CAU",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
+    github: "https://github.com/Manavpatel1803/AgriForecast-A-sustainable-solution-based-on-ML-Algorithms-",
+    webapp: "",
   },
   {
     id: 3,
-    title: "E-commerce Application ",
+    title: "Video Streaming Application",
     description:
-      "Developed a high-performance e-commerce application using Next.js 14, Tailwind CSS, and React, delivering a seamless shopping experience with fast page loads and dynamic content. Utilized Next.js for server-side rendering and API routes, ensuring scalability and optimized SEO. Tailwind CSS was employed for efficient, responsive design, enhancing the visual appeal and usability across devices.",
+      "This is simple video player application created on React + Vite  where user can upload and watch the videos and all the video files are being formatted through ffmpeg command line tool.",
     image:
       "https://cdn.freshegg.co.uk/m/0/responsive-design-ecommerce-site-graphic.png",
     tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+    github: "https://github.com/Manavpatel1803/video_player",
+    webapp: "https://video-player-d62p.vercel.app/",
   },
   
 ];
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
-];
