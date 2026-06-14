@@ -245,57 +245,51 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "Disaster CrowdFunding Blockchain Application",
+    title: "FX Rate Monitor & Treasury Dashboard",
     description:
-      "Developed a comprehensive Employee Management System using the Laravel framework, enhancing organizational efficiency through features like employee tracking, attendance management, and payroll processing. Leveraged Laravel's robust MVC architecture to ensure scalability and maintainability, while integrating authentication and authorization to secure sensitive data.",
+      "a dashboard for monitoring currency pairs (GBP/USD, EUR/USD, USD/INR, EUR/GBP) with historical rate storage.",
     image:
       "https://techrseries.com/wp-content/uploads/2022/11/Key-Characteristics-of-an-Effective-Employee-Management-System.jpg",
     tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
+      "Python",
+      "FastAPI",
+      "SQL",
+      "Streamlit",
+      "React",
     ],
-    category: "web app",
-    github: "https://github.com/Manavpatel1803/DisasterReliefCrowdFunding-DApp",
+    category: "FINTECH APPS",
+    github: "https://github.com/Manavpatel1803/Fx-Treasury-Dashboard",
     webapp: "",
   },
   {
     id: 0,
-    title: "Banking System",
+    title: "FIX Protocol Parser & Order Lifecycle Simulator",
     description:
-      "Created a robust Banking System using Spring Boot and Spring Data JPA, providing seamless account management, transaction processing, and financial reporting. Implemented secure authentication and authorization mechanisms, ensuring data integrity and compliance with banking regulations. Utilized Spring Data JPA for efficient and scalable database interactions, optimizing performance for high-volume transactions.",
+      "Built a finance-focused parser for FIX-style messages, converting raw tag-value strings into structured order objects with validation for required fields.",
     image:
       "https://financefeeds.com/wp-content/uploads/2022/11/core-banking.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-    category: "web app",
-    github: "",
+    tags: ["Python","Pytest","Git"],
+    category: "FINTECH APPS",
+    github: "https://github.com/Manavpatel1803/fix-order-simulator",
     webapp: "",
   },
   {
     id: 1,
-    title: "Real-time Chat App",
+    title: "Digital Wallet & Payment Ledger API "
     description:
-      "Developed a real-time chat application using NestJS and WebSocket, enabling instantaneous messaging and seamless communication between users. Implemented a scalable architecture to handle concurrent connections efficiently, ensuring low latency and high performance. Integrated robust authentication and authorization features to provide a secure and reliable user experience.",
+      "Designed a backend API for user accounts, wallet balances, internal transfers, transaction history, and admin-level transactions review.",
     image:
       "https://files.ably.io/ghost/prod/2023/01/build-a-realtime-chat-app-from-scratch--1-.png",
     tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "NodeMailer",
+      "Python",
+      "Flask",
+      "PostgreSQL",
+      "SQL Alchemy",
+      "JWT",
+      "Docker",
     ],
-    category: "web app",
-    github: "",
+    category:"FINTECH APPS"
+    github: "https://github.com/Manavpatel1803/digital-wallet-api",
     webapp: "",
   },
   {
