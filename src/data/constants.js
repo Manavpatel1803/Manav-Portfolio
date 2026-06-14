@@ -275,7 +275,7 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Digital Wallet & Payment Ledger API "
+    title: "Digital Wallet & Payment Ledger API ",
     description:
       "Designed a backend API for user accounts, wallet balances, internal transfers, transaction history, and admin-level transactions review.",
     image:
