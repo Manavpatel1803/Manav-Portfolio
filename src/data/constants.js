@@ -249,7 +249,7 @@ export const projects = [
     description:
       "a dashboard for monitoring currency pairs (GBP/USD, EUR/USD, USD/INR, EUR/GBP) with historical rate storage.",
     image:
-      "https://techrseries.com/wp-content/uploads/2022/11/Key-Characteristics-of-an-Effective-Employee-Management-System.jpg",
+      "https://tse1.mm.bing.net/th/id/OIP.1FXKRg-QVOS6bLQp5tyJUAHaE8?pid=Api&h=220&P=0",
     tags: [
       "Python",
       "FastAPI",
@@ -267,7 +267,7 @@ export const projects = [
     description:
       "Built a finance-focused parser for FIX-style messages, converting raw tag-value strings into structured order objects with validation for required fields.",
     image:
-      "https://financefeeds.com/wp-content/uploads/2022/11/core-banking.png",
+      "https://thumbs.dreamstime.com/b/fix-financial-information-exchange-electronic-communications-protocol-international-real-time-acronym-text-concept-298124620.jpg",
     tags: ["Python","Pytest","Git"],
     category: "FINTECH APPS",
     github: "https://github.com/Manavpatel1803/fix-order-simulator",
@@ -279,7 +279,7 @@ export const projects = [
     description:
       "Designed a backend API for user accounts, wallet balances, internal transfers, transaction history, and admin-level transactions review.",
     image:
-      "https://files.ably.io/ghost/prod/2023/01/build-a-realtime-chat-app-from-scratch--1-.png",
+      "https://www.namirial.com/wp-content/uploads/namirial-inspiration-EU-digital-identity-wallet.webp",
     tags: [
       "Python",
       "Flask",
@@ -288,7 +288,7 @@ export const projects = [
       "JWT",
       "Docker",
     ],
-    category:"FINTECH APPS"
+    category:"FINTECH APPS",
     github: "https://github.com/Manavpatel1803/digital-wallet-api",
     webapp: "",
   },
